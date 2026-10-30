@@ -74,7 +74,7 @@ This lab is intended for educational purposes and authorized cybersecurity testi
 ![Host-Only Network](screenshots/network/host-only-network.png)
 
 ### 3. Kali Linux IP and Internet Verification
-![Kali IP and Internet Verification](screenshots/kali-linux/kali-ip-and-internet-verification.jpeg)
+![Kali IP and Internet Verification](screenshots/kali-linux/kali-ip-and-internet-verification.jpeg) 
 
 ### 4. Shared Folder Verification
 ![Shared Folder Verification](screenshots/verification/shared-folder-verification.png)
